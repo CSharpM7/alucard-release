@@ -1,6 +1,6 @@
 # Alucard Release Page
 
-This is the official release page for the Alucard mod. Head over to the releases page to download!
+This is the official release page for the Alucard mod. Head over to the releases page to download! For more information, visit https://github.com/CSharpM7/Alucard
 
 ## Prerequisit Plugins 
 
