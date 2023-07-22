@@ -1,6 +1,7 @@
 # Alucard Release Page
 
 This is the official release page for the Alucard mod. Head over to the releases page to download! For more information, visit [https://csharpm7.github.io/Alucard/](https://csharpm7.github.io/Alucard/)
+For the Richter Redirect companion mod, visit 
 
 ## Prerequisit Plugins 
 
