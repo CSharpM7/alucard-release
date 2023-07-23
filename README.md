@@ -19,8 +19,11 @@ When booting Smash for the first time with these mods, make sure you chose NOT t
 ## Folders
 
 **alucard**: The main folder the contains various parameters, as well as all the models and animations for Alucard. Do not alter this folder
+
 **alucard moveset**: This is the base moveset for alucard, optimal for base-game smash.
+
 **alucard moveset x**: For overhaul packs, as well as a handful of custom fighters, Alucard's original moveset will force crashes due to how skyline works at the moment. To compensate, this lighter version of the moveset (featuring Mist Dash) will be compatible with a heavily modified version of smash
+
 **hdr - alucard**: This contains a `motion_patch.yaml` file that is essential to Alucard's compatibility with HDR. Create a copy of your current `hdr` folder, and copy all of the contents **except for the richter folder** into this folder. This folder won't get updated via the hdr-launcher, so make sure you manually update this every once in a while.
 
 ## Gameplay Mod Compatibility
