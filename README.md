@@ -28,4 +28,4 @@ When booting Smash for the first time with these mods, make sure you chose NOT t
 
 ## Gameplay Mod Compatibility
 
-Currently, this mod somewhat supports other gameplay mods being ran concurrently, though you will most likely need to use Moveset X. For large overhaul packs, you'll want to make sure you have their stage mods enabled. You'll also need to iron out any conflicts (such as motion_list.bin and animation files), I recommend making copies of the mod folders. Not every moveset mod is compatible with Alucard; there is no list of these movesets and I cannot do anything about that.
+Currently, this mod somewhat supports other gameplay mods being ran concurrently, though you will most likely need to use Moveset X. For large overhaul packs, you'll want to make sure you have their stage mods enabled. You'll also need to iron out any conflicts (such as motion_list.bin and animation files), I recommend making copies of those mod folders. Not every moveset mod is compatible with Alucard; there is no list of these movesets and I cannot do anything about that.
