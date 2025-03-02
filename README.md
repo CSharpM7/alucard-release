@@ -7,7 +7,8 @@ For the Richter Redirect companion mod, visit [https://gamebanana.com/mods/45766
 
 Alongside Arcorpolis, you will need the following plugins:
 - [nro_hook](https://github.com/ultimate-research/nro-hook-plugin/releases)
-- [smashline_hook](https://github.com/blu-dev/smashline_hook/releases)
+- [smashline_hook](https://github.com/HDR-Development/smashline/releases/latest)
+- [param config](https://github.com/CSharpM7/lib_paramconfig/releases/latest)
 
 
 ## Installation
